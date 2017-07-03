@@ -4,9 +4,9 @@
 #   *       File-Name:    Google Scholar shiny app
 #   *       Date:         05/02/2016
 #   *       Author:       3AT
-#   *       Purpose:      buil coauthorship network
-#   *       Input File:   google scholar prifile link
-#   *       Output File: coauthorship graph
+#   *       Purpose:      build coauthorship network
+#   *       Input File:   google scholar profile link
+#   *       Output File: coauthorship graph, main component, name inconsistencies
 #   *       Data Output:
 #   *       Previous file:
 #   *       Machine:    Ubuntu
